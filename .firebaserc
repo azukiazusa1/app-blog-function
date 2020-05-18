@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "app-blog-1ef41"
+    "production": "app-blog-1ef41",
+    "staging": "app-blog-dev"
   }
 }
